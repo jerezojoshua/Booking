@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Booking</string>
+    <string name="title_activity_booking_additional_info">BookingAdditionalInfo</string>
+
+    <string-array name="Genders">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Others</item>
+    </string-array>
+
+
+</resources>
